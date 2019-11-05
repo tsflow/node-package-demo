@@ -24,6 +24,7 @@
     "lodash": "^4.17.15"
   },
   "dependencies": {
-    "mongodb": "^3.3.3"
+    "mongodb": "^3.3.3",
+    "seneca": "^3.17.0"
   }
 }
