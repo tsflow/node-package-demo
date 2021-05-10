@@ -21,7 +21,7 @@
     "esquery": "^1.0.1",
     "globals": "^12.1.1",
     "levn": "^0.3.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "dependencies": {
     "mongodb": "^3.3.3",
